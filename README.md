@@ -1,7 +1,7 @@
 # TeachingProgrammingPortfolio
 Hi nmy name is Ahmed Hussaini and I'm a 4th year computer engineering student.
 
-![Me]
+![Me](ucsdid1 (2).jpg)
 
 Welcome to my portfolio!
 
